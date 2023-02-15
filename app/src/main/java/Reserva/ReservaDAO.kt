@@ -1,0 +1,4 @@
+package Reserva
+
+interface ReservaDAO {
+}
